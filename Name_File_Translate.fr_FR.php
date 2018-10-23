@@ -1,3 +1,3 @@
 <?php
-  $LANG['plugin_reports']['Avignon']="Report Personnal";
+  $LANG['plugin_reports']['Report Personnal']="Report Personnal";
  ?>
